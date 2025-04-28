@@ -8,7 +8,7 @@ This is a **Shopify**-based e-commerce website for **TecSpares**, a store specia
 
 ## Screenshots:
 ### Homepage Screenshot:
-![Homepage](images/tecspares%20homepage.PNG)
+![Homepage](tecspares%20homepage.PNG)
 
 ### Product Page Screenshot:
 ![Product Page](tecspares%20products%20page.PNG)
